@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hisham-sharrouf
 - 👀 I’m interested in data science, AI and GIS.
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning data science, machine learning 
 
 
 <!---
